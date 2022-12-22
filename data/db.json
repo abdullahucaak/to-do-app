@@ -1,0 +1,28 @@
+{
+  "yapilacaklar": [
+    {
+      "id": 1,
+      "baslik": "Kod Yaz Bebeğim",
+      "icerik": "Vue.js Bebeğim Yabıştır",
+      "yapildi": false
+    },
+    {
+      "id": 71578,
+      "baslik": "Selam Ver",
+      "icerik": "Tüm Dünyaya",
+      "yapildi": true
+    },
+    {
+      "id": 5405,
+      "baslik": "Şükür Et",
+      "icerik": "15 Dakika Şükür Meditasyonu",
+      "yapildi": false
+    },
+    {
+      "id": 52800,
+      "baslik": "Kitap Oku",
+      "icerik": "30 Sayfa Alışkanlıkların Gücü...",
+      "yapildi": false
+    }
+  ]
+}
